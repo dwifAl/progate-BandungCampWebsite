@@ -516,6 +516,16 @@ input[type=text], select, textarea {
   padding-top: 0px;
 }
 
+.isi-right-kontak h3{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 0px 0px;
+}
+
+.isi-right-kontak p{
+  padding-top: 0px;
+}
+
 .lesson-wrapper {
   padding-top: 50px;
   padding-bottom: 40px;
