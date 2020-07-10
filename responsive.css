@@ -17,36 +17,44 @@
   }
 
   .isi-right img{
-  	width: 70%;
+    width: 70%;
+  }
+	
+  .isi-right-kontak img{
+    width: 70%;
   }
 
-  	.lesson-wrapper{
-		width: 100%;
-	}
+  .lesson-wrapper{
+    width: 100%;
+  }
 
-	.lesson {
-	  float: none;
-	  width: 33%;
-	}
+  .lesson {
+    float: none;
+    width: 33%;
+  }
 
-	.text-contents {
-	  width: 90%;
-	  height: 120px;
-	}
+  .text-contents {
+     width: 90%;
+     height: 120px;
+   }
 
-	.portofolio-content h3{
-	  font-size : 16px;
-	  padding : 10px 20px;
-	}
+   .portofolio-content h3{
+     font-size : 16px;
+     padding : 10px 20px;
+   }
 
-	.kanan1 img{
-		width: 50%;
-		padding-top: 60px;
-	}
+   .kanan1 img{
+     width: 50%;
+     padding-top: 60px;
+    }
 
-	.isi-right img{
-		width: 50%;
-	}
+     .isi-right img{
+	width: 50%;
+     }
+
+    .isi-right-kontak img{
+	width: 50%;
+     }
 
 }
 
@@ -91,20 +99,23 @@
   	width: 50%;
   }
 
-  	.lesson-wrapper{
-		width: 100%;
-	}
-
-	.lesson {
-	  float: none;
-	  width: 50%;
-	}
-
-	.text-contents {
-	  width: 80%;
-	  height: 110px;
-	}
+  .isi-right-kontak img{
+      width: 50%;
+  }
   
+  .lesson-wrapper{
+     width: 100%;
+   }
+	
+  .lesson {
+     float: none;
+     width: 50%;
+   }
+
+   .text-contents {
+     width: 80%;
+     height: 110px;
+   }
 }
 
 /* Untuk Smartphone */
@@ -293,6 +304,18 @@
 }
 
 .isi-right img{
+  width : 90px;
+}
+
+.isi-right-kontak{
+  float:none;
+  width: 100%;
+  font-size: 12px;
+  margin-top: 140px;
+  text-align : center;
+}
+
+.isi-right-kontak img{
   width : 90px;
 }
 
