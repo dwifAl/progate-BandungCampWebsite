@@ -426,6 +426,18 @@ p{
   height: 300px;
 }
 
+.isi-right-kontak{
+  float:right;
+  display: block;
+  width: 45%;
+  padding: 24px 8% 24px 30px;
+  background-color: #f5f5f5;
+  font-family: 'Open Sans', sans-serif;
+  color: #333333;
+  font-size: 14px;
+  height: 400px;
+}
+
 .isi-hr{
   padding: 10px 0px 24px 0px;
   background-color: #f5f5f5;
